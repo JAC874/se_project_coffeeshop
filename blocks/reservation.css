@@ -8,8 +8,8 @@
 }
 
 .reservation__title {
-  margin: 0 0 80px;
-  justify-content: center;
+  margin: 0 auto 80px;
+  text-align: center;
   font-family: "inter";
   font-weight: 500;
   font-size: 44px;
