@@ -1,0 +1,64 @@
+@keyframes pulsate {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+    scale: 1.32;
+  }
+}
+
+.about {
+  background-color: #0a2850;
+  padding: 0;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.about__title {
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  color: #fff;
+  position: relative;
+  z-index: 1;
+  justify-content: left;
+  max-width: 251px;
+  margin: 100px 80px 0;
+  padding: 0;
+}
+
+.about__content {
+  list-style-type: none;
+  font-family: "Noto Serif";
+  font-size: 20px;
+  line-height: 30px;
+  color: #fff;
+  max-width: 660px;
+  margin: 119px 80px 173px;
+  position: relative;
+  z-index: 1;
+  margin-left: auto;
+}
+
+.about__paragraph {
+  margin-bottom: 20px;
+}
+
+.about__circle {
+  background-color: #2f80ed;
+  width: 426px;
+  height: 426px;
+  border-radius: 50%;
+  position: absolute;
+  top: -152px;
+  left: -129px;
+}
+
+.about__circle_animation_blurred {
+  animation: pulsate 1.3s ease-in-out infinite;
+}
