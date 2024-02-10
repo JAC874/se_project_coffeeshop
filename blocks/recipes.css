@@ -19,7 +19,7 @@
 .recipes__subtitle {
   margin: 24px 0 0;
   max-width: 438px;
-  font-family: "Noto serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   color: #fff;
@@ -35,6 +35,7 @@
 .recipes__iframe {
   width: 480px;
   height: 273px;
+  border: 0;
 }
 
 .recipes__video-caption {
@@ -44,4 +45,5 @@
   font-size: 20px;
   line-height: 30px;
   color: #fff;
+  margin: 24px 0 0;
 }
