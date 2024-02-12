@@ -64,11 +64,12 @@
   height: 20px;
   width: 20px;
   line-height: 20px;
+  border-radius: 2px;
 }
 
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
   gap: 12px;
-  border-radius: 2px;
+  margin: 0;
 }
