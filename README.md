@@ -1,4 +1,4 @@
-# Triple Peaks Coffee Shop
+d# Triple Peaks Coffee Shop
 
 Speciatly Coffee in the Triple Peaks Library
 
@@ -15,4 +15,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Plans to improve the transition of the opacity of the button within the reservation form and design of the checkbox.
+- improve the transition of the opacity of the button within the reservation form and design of the checkbox
+- add css and semantics to support responsive design
