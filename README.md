@@ -1,4 +1,4 @@
-d# Triple Peaks Coffee Shop
+Triple Peaks Coffee Shop
 
 Speciatly Coffee in the Triple Peaks Library
 
